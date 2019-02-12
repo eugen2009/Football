@@ -23,9 +23,8 @@ html, body {
   width: 75%;
   height: 85%;
   background: #005f2f;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
+  background-size: contain;
+
   padding: 5px;
 }
 

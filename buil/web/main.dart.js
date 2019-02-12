@@ -3017,7 +3017,7 @@ y=y.f
 y=y[z%y.length].a
 w.backgroundImage=y
 z=x.style
-C.k.c6(z,(z&&C.k).bP(z,"background-size"),"contain","")}}}],["","",,G,{"^":"",bN:{"^":"a;a,b,c",
+C.k.c6(z,(z&&C.k).bP(z,"background-size"),"auto","")}}}],["","",,G,{"^":"",bN:{"^":"a;a,b,c",
 bE:function(a,b,c){this.a=a
 this.b=b
 this.c=c
